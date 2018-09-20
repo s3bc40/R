@@ -1,0 +1,4 @@
+[1] "Le résultat est enregistré dans le fichier de sortie."
+[1] 16
+[1] "Le résultat est enregistré dans le fichier de sortie."
+[1] 16
