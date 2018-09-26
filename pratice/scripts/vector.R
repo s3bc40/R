@@ -53,3 +53,13 @@ vecteur4[vecteur4>7]
 poids[c(1,4)] <- c(65,80)
 prenoms <- c("Philippe", "Irene", "Pierre", "Paul", "Lucie", "Chloe", "Jacques", "Mathilde")
 prenoms[3] <- "Quentin"
+
+# Exo TD2 modelo
+v1 <- c(2,36,5,4)
+v1
+v2 <- c(T,F,F,F)
+v2
+length(v1)
+min(v1)
+v1+v2 # booleen considere comme binaire (T = 1, F = 0)
+v1*v2
